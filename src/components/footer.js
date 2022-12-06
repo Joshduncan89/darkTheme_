@@ -16,7 +16,6 @@ const Footer = () => {
           </p>
           <h1 className="text-white text-lg mt-20 ">
             © copyright{" "}
-            <a href="https://www.chetanverma.com/">chetanverma.com</a>
           </h1>
         </div>
         <div className="place-self-end self-center xxs:hidden lg:block">
